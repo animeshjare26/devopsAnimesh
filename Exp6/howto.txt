@@ -3,4 +3,4 @@
 GitHub project
 Project url
 https://github.com/Surya86899/surdevopsya/
-Exp6/Exp6/PipelineScript
+Exp6/Exp6PipelineScript
